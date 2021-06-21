@@ -7,3 +7,5 @@ bot.run('token')
 ```
 来运行你的discord Bot
 
+
+![image](https://user-images.githubusercontent.com/17544980/122771881-6d64f080-d2d9-11eb-9ccf-0fc02b750065.png)
